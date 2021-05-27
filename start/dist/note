@@ -1,0 +1,13 @@
+From today, make sure to review / study about these below.
+
+- Async ... await
+- Promise
+- Promise.resolve()
+- Promise.reject()
+- Promise.prototype.then()
+- Promise.prototype.catch
+
+- Storage.setItem()
+- Storage.getItem()
+
+- API
